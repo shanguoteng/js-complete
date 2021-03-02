@@ -1,23 +1,23 @@
 {
-  "name": "js-complete",
-  "version": "1.0.0",
-  "description": "手写各种实现",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shanguoteng/js-complete.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shanguoteng/js-complete/issues"
-  },
-  "homepage": "https://github.com/shanguoteng/js-complete#readme",
-  "dependencies": {
-    "promises-aplus-tests": "^2.1.2"
-  }
+	"name": "js-complete",
+	"version": "1.0.0",
+	"description": "手写各种实现",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/shanguoteng/js-complete.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/shanguoteng/js-complete/issues"
+	},
+	"homepage": "https://github.com/shanguoteng/js-complete#readme",
+	"dependencies": {
+		"promises-aplus-tests": "^2.1.2"
+	}
 }

@@ -24,3 +24,5 @@
        2.1  A promise must be in one of three states: pending, fulfilled, or rejected.
 
       > 一个Promise必须处于 ` pengding`,`fulfulled`,`rejected`三个状态其中之一
+      
+         2.1.1 测试

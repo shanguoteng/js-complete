@@ -25,4 +25,3 @@
 
       > 一个Promise必须处于 ` pengding`,`fulfulled`,`rejected`三个状态其中之一
       
-         2.1.1 测试
